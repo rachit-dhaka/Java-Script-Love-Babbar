@@ -9,3 +9,4 @@ let parent=document.querySelector('#mydiv')
 let child=document.querySelector('#fh2')
 
 parent.removeChild(child);
+
